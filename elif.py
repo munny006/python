@@ -9,5 +9,5 @@ elif m >= 50:
       print("B")
 elif m >= 40:
     print("D+")
-    else :
-      print("F")
+else:
+  print("F")
